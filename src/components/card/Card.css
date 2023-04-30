@@ -1,0 +1,55 @@
+.card-container{
+    background-color: white;
+    padding: 6px;
+    margin-top: 10px;
+    border-radius: 5px;
+    min-width: 220px;
+}
+
+.card-localidade {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.span-cidade {
+    display: block;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #222;
+}
+
+.span-pais {
+    color: #555;
+    font-size: 0.9rem;
+}
+
+.card-temperatura {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    margin-bottom: 4px;
+    font-weight: bold;
+    color: #333;
+}
+
+.span-temperatura {
+    font-size: 3.5rem;
+}
+
+.span-grau {
+    font-size: 1.2rem;
+    margin-top: 18px;
+}
+
+.card-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.span-tempo {
+    font-weight: 500;
+    color: #333;
+}
